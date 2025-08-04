@@ -1,5 +1,5 @@
 # llamaindex-rag-demo
-Using OpenInference and OpenTelemetry to send logs and traces from your LlamaIndex app to Signoz
+Using OpenInference and OpenTelemetry to send logs and traces from your LlamaIndex RAG app to Signoz
 
 ## Getting Started
 First, install all the necessary dependencies for the backend:
