@@ -5,12 +5,12 @@ Using OpenInference and OpenTelemetry to send logs and traces from your LlamaInd
 First, install all the necessary dependencies for the backend:
 
 *Optional*
-Create Python virtual env
+Create Python virtual env:
 ```bash
 python -m venv myenv && \
 source myenv/bin/activate
 ```
-
+Then:
 ```bash
 pip install -r requirements.txt
 ```
