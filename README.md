@@ -56,7 +56,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ### Logs
-<img width="741" height="300" alt="Screenshot 2025-08-04 at 12 13 50 PM" src="https://github.com/user-attachments/assets/dacc87b4-1182-4f08-b134-bb1d799f4dd4" />
+<img width="745" height="304" alt="Screenshot 2025-08-04 at 12 18 09 PM" src="https://github.com/user-attachments/assets/3276a651-9cf9-447c-a8a7-e5d7526febad" />
+
 
 
 
