@@ -19,7 +19,7 @@ Install all the necessary dependencies for the frontend:
 ```bash
 cd rag-frontend && \
 npm install
-'''
+```
 
 Next create a .env file with the following(in root directory):
 ```bash
@@ -40,11 +40,23 @@ Run the frontend:
 ```bash
 cd rag-frontend && \
 npm start
-'''
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result and interact with the application.
 
 ## After using the application, you should be able to view traces and logs in your SigNoz Cloud platform:
+
+### Traces
+<img width="1106" height="240" alt="Screenshot 2025-08-04 at 12 11 56 PM" src="https://github.com/user-attachments/assets/32521f49-62cd-47a0-9193-e6d50a18075d" />
+<img width="1422" height="748" alt="Screenshot 2025-08-04 at 12 15 10 PM" src="https://github.com/user-attachments/assets/d18fa7a8-2d8d-4ab2-9ac7-94af282028c9" />
+<img width="1422" height="748" alt="Screenshot 2025-08-04 at 12 15 54 PM" src="https://github.com/user-attachments/assets/4d356941-57f9-491a-9deb-0498abd5f3e7" />
+<img width="1422" height="748" alt="Screenshot 2025-08-04 at 12 16 44 PM" src="https://github.com/user-attachments/assets/ffdc67b9-d6e4-4a79-a324-7e72dc2f75dc" />
+
+
+
+
+### Logs
+<img width="741" height="300" alt="Screenshot 2025-08-04 at 12 13 50 PM" src="https://github.com/user-attachments/assets/dacc87b4-1182-4f08-b134-bb1d799f4dd4" />
 
 
 
