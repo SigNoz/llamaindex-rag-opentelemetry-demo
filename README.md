@@ -57,6 +57,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Logs
 <img width="745" height="304" alt="Screenshot 2025-08-04 at 12 18 09 PM" src="https://github.com/user-attachments/assets/3276a651-9cf9-447c-a8a7-e5d7526febad" />
+<img width="872" height="719" alt="embed-log" src="https://github.com/user-attachments/assets/dc3ae8c3-0ac9-4eff-9cb7-2a77d788caef" />
+<img width="872" height="719" alt="query-log" src="https://github.com/user-attachments/assets/d99c1b45-b768-4d3c-9cde-3eb8b73f9172" />
+<img width="872" height="788" alt="feedback-log" src="https://github.com/user-attachments/assets/11b52225-25df-4836-b2c4-6eb4b9a07b8a" />
+
+
 
 
 
